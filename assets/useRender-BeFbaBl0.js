@@ -1,0 +1,1 @@
+import{on as e}from"./PopoverTitle-MdAOrlQo.js";function t(t){return e(t.defaultTagName??`div`,t,t)}export{t};

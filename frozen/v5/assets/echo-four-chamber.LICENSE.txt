@@ -1,0 +1,18 @@
+echo-four-chamber.jpg
+
+Unmodified original JPEG, 2048 x 1536 pixels.
+Figure 2: Bidimensional echocardiography — 4 chambers view, maximum left atrium dedicated view.
+
+Authors: Lavinia-Lucia Matei, Roxana-Mihaela Popescu, Andreea Catarina Popescu,
+and Șerban Mihai Bălănescu.
+Early Echocardiographic Predictors for Atrial Fibrillation Propensity: The Left Atrium Oracle.
+Reviews in Cardiovascular Medicine. 2022;23(6):205. Published by IMR Press.
+https://doi.org/10.31083/j.rcm2306205
+https://www.imrpress.com/journal/RCM/23/6/10.31083/j.rcm2306205
+Original: https://storage.imrpress.com/jwm/498370/6/2153-8174-23-6-205/fig2.jpg
+
+Copyright 2022 The Authors. Creative Commons Attribution 4.0 International.
+https://creativecommons.org/licenses/by/4.0/
+
+Used as reference imagery in the fictional prototype, not as patient-specific
+evidence or an Ultromics device output. No endorsement is implied.

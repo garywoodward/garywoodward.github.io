@@ -1,0 +1,6 @@
+Epic wordmark
+Source: https://open.epic.com/Content/images/EpicLogo.svg
+Retrieved: September 15, 2026
+The source SVG is stored unchanged as epic-logo.svg.
+Epic is a trademark of Epic Systems Corporation.
+Used to identify the system represented by the fictional local chart wrapper.

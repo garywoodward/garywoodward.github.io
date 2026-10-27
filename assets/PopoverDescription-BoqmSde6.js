@@ -1,0 +1,1 @@
+import{c as e,d as t}from"./index-BCyTAFHO.js";import{Vn as n,on as r,x as i}from"./PopoverTitle-MdAOrlQo.js";var a=t(e(),1).forwardRef(function(e,t){let{render:a,className:o,style:s,...c}=e,l=i(),u=n(c.id);return l.useSyncedValueWithCleanup(`descriptionElementId`,u),r(`p`,e,{ref:t,props:[{id:u},c]})});export{a as t};
